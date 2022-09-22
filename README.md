@@ -24,7 +24,7 @@ and TotalOrder inside public static void main(String[] args){}
 AchimotaRetailShopID{}. Format prices and subtotals to two decimal places
 7. Call createReceipt() inside public static void main(String[] args){} to display 
 the output below
-<img src="Output.jpg" alt = "output sample">
+<img src="img/Output.jpg" alt = "output sample">
 
 
 
